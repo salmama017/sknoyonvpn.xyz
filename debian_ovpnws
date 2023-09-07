@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='66.45.251.234';
+USER='rockvipv_sknoyonvpn';
+PASS='rockvipv_sknoyonvpn';
+DBNAME='rockvipv_sknoyonvpn';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
